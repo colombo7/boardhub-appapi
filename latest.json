@@ -1,9 +1,9 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.8.0.zip",
-  "sha256": "fe8eab45f798d51a50d2f010023ded178bae926235156895ef7544f23e9acc77",
-  "signature": "KlRkoDVyb/hEMDXqMs986q/KEqdFSA8GFw+s8LZs4QedYcyDXhJrylO1HZJ+4JgQVjjz3CWLWKUSIOem9Gt1WY/xLYu5I9Nr1xVVpDtGtbHIZG3qqkMgQCR4PIZBGH3IbPuZAuMgAn2Y5ZP/1hxLTZO1ZwJqt4Cc3Q499yYLyvu2Oy2O1kucvE8CZ7ndFChUsBQ0YWONkifEiUKnCXZAyJLUZ1R2gfH+AoOGgDQsYgpu8P1QWiAN7aUnqMl+WR2wDyBnfeN2DqevLH56Em4vW3GYGol43YoPjwBXsRicT8e9LfygUo/E3k3SZ3gmfXLdP+GiICeYGxVF1eaL/2p8mn7g1CZ/2V4Ympfu/niqg51JVTkGzOqlMiiz3Ekg6Tcdai0ZU987mo1dONVMFNkkMcd0MqQKNg+cK7x6fGzU6Zeliqsgl6e1IyA8wFdDtwjRk+y2CIa7AD5IWUu8T8o0WRpEUY3OTA5vpO2SC1qzE0bT3GDEUhDHxJYltydikeTk",
+  "zip": "releases/appapi-0.9.0.zip",
+  "sha256": "776065e79fed501475761c4672f621e19b1b38578fc847ca0a708b6241de0d48",
+  "signature": "DJF4RpYAtyr6TOYnlSPHmRA1AeSX29t7BPnuMAHRHoAJxosFVyTx8p7zo+97ot6nuE9h+uS3tV1htzRJ1SxxDcmLaw9DiE03ZKWFX9Kb81Ukh8ueur4fcpSBs3BAQ+332Kcy/1trteSOlBePozcEs/+Cm9eSYGvnOuSi8uRYo7eKfB0jb9xnHc/YyRghP91nco9IrkOoFtDyyfIu9ykGCx2ywE3CYY+KQQGAcTq1xJKOqHAPDW8sadZQTrtQ65OgZW1XX7OUgub5tbSGij6bLP7wMKJrzgE33WBKRmbhJ0fqfGnjTVky1fxklnCfI/RzucG6G8Az9/fIZw+QAx811YmP9n0bClQ+uEEG9plRJCJ8b/04DHfic8v/29FwrJ5C923zbrPvgePeyEvaA38voVBWiIRWbUuCNW8Zw58VHpJgxLTuQIFMp7Vs/6uc+8Rr9EO9O/2czqkyJqY4hOlBdPb3e9GwaBK81xPsm4uynCVoCOzt3ZI3OY1LxR39OsVM",
   "min_php": "7.1",
-  "notes": "회원 탈퇴(me.leave: 웹과 같은 엔진 탈퇴, 비밀번호 확인, 탈퇴하면 앱 로그인도 지움)"
+  "notes": "0.9.0: 앱 회원가입(웹 가입 설정 그대로)"
 }
