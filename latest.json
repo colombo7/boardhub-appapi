@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.4.0.zip",
-  "sha256": "fc1ede55d5e9739b6f7ed03fde096ad809805cf6eef3e00452848212b704fa8a",
-  "signature": "l1kgJZbZSJAeyVlFU+xgePZvB7to6QEqrnVh07Pp6LPNqS+N8/kbJLXOFczwm21jAM4WwtnQtruQ8PvhcMA/9+eTSaKTzE8jzDfJjhYpjaRbbcHnC9d3IV2FHDfQq4i2JjV6OR4zebRR+KAZAA37TpCvckV7brBhOiT5HYQ6BWfOqqPaSBF216IyAiK4C1q4x+kqCHEsCRLbs8wZsZMiJYQzsiFC5E0Pljyftmlk2sc5FJfbxXj9SJLnwVROx0UZZpTsZcg2jXWzX5PMHe09HAzcgkmeJOr8e7mdfV7iw6IxX18UP7zMruHjkdaNJwMSLbmq4eN2q/kOnwBSN3GnUg28pRhhP4CpsTB/7XyS+ffiyr2Bj2xHXZS1uGLNjE11xLVmUt2PBteviMOvV3ID3AIPRSAhm5lT3lFFm8kiVc5nS0dIl8ywI+2pAUrQH/dsiB4Bv75uPiuJealNUM/GGdnOBOIQHYSaRa7IC91FbYfazeAN1kUjnNrwRw4UPwko",
+  "zip": "releases/appapi-0.5.0.zip",
+  "sha256": "d3476bfc13c2e9efd1e382326aaca6d304a7e570db5444a9d5d3e228788f06c2",
+  "signature": "E9mPSyRBmazXG+7KmxvpUkgJAOrKEmO2h2n4NN1Qx4NTLcum68aahcXftDNVUusN+ijhXYmo7nqiIffVRmpeL1iERhkULzRHoSDY9KtTLDx2DbDbxUltquqK6yeIc5fKBsHcNp3cUiIYpdJpjB53ZyF+qQAv+YmewkK+Sw6atsn1d/h22gQykF93NNiqMm+YAAQbVeMb4grW8qz3EMmAO3seC0YTv+PaAGGYSP+G15ywCATxGbCA4Wic1VxkSMJSKEH2VzMkQYxwzXOErWMxFtNcOVAu03urTkqe6sfNmYolVPlstg2j+rcUb/V9zwnLy0IrVQEz4OyAIymM+Hnoo/lxbqqD28rDeH8hCUr/IZ9IQCgOD6PhLsb75A/ySmYJu1E0AWjmYDS7827MVKI2qd9kic6J5MD1vT9JVMgLejqFRPqy9MaW2keudYlLTFRMoxI30Xeqa9M6lmlDg9koMAn22QLPNZ+xWK8r6j25NFuuTde+qsgJAECjfLA0T/P9",
   "min_php": "7.1",
-  "notes": "API 포트 설정을 없앰(웹과 같은 443·80만 씀)."
+  "notes": "조회수를 사이트 설정대로 셈(앱 접속 번호), 관리자 화면에 배포된 것보다 새 버전 안내"
 }
