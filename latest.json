@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.3.0.zip",
-  "sha256": "c5f7a116d360c8a30b4c7a2bef374d38f1817206795f5f88654cee7510efc97e",
-  "signature": "qVrvbvsPYEkkzBAsxDIOCLTSo6doRZAZ5RyOH6K1koeEdPi8xH4wLhXxHP+NXyJdr0BR6UpLyCF26gsI2QIbtL73BPgpeebpnr0kbn+J2osk8eyGzasglTr+3iCzeEQi8UMSVIFPjFngMBA4FwGC4jiBsCl8R3jhN+ny9whrHSeBM8sKUXHr+trb4IFJyHSk9bBRGgsEKCQW2K6ArmjYQjLYKN2ptQeRmVxxXiRjkmPJDO/RvugcB5X48qHkdpFzj1UDCtM2YNxrLZEmbB+l4a8Lx/3idtkRCdkZFHS1gJQaLVzIU+EJgN9VGbNDbWs2ODVoe34nxJGcLwFze0oaLmCCve7RrFEQR237qeVPvJwdTGkjX3fnF2UqXZQbZ+TTyBnyrhW2Zz+01UPCceLQXFmZY5LQl6e46msTrPKjqbnQ9n3QcejRdX0CMA91wiDLQv/9hj4I90F85CMx7yp5Xnk14UdyYsGtpu9GvmfkC1uIE/l0IJdqjuFn3W0fp+L4",
+  "zip": "releases/appapi-0.4.0.zip",
+  "sha256": "fc1ede55d5e9739b6f7ed03fde096ad809805cf6eef3e00452848212b704fa8a",
+  "signature": "l1kgJZbZSJAeyVlFU+xgePZvB7to6QEqrnVh07Pp6LPNqS+N8/kbJLXOFczwm21jAM4WwtnQtruQ8PvhcMA/9+eTSaKTzE8jzDfJjhYpjaRbbcHnC9d3IV2FHDfQq4i2JjV6OR4zebRR+KAZAA37TpCvckV7brBhOiT5HYQ6BWfOqqPaSBF216IyAiK4C1q4x+kqCHEsCRLbs8wZsZMiJYQzsiFC5E0Pljyftmlk2sc5FJfbxXj9SJLnwVROx0UZZpTsZcg2jXWzX5PMHe09HAzcgkmeJOr8e7mdfV7iw6IxX18UP7zMruHjkdaNJwMSLbmq4eN2q/kOnwBSN3GnUg28pRhhP4CpsTB/7XyS+ffiyr2Bj2xHXZS1uGLNjE11xLVmUt2PBteviMOvV3ID3AIPRSAhm5lT3lFFm8kiVc5nS0dIl8ywI+2pAUrQH/dsiB4Bv75uPiuJealNUM/GGdnOBOIQHYSaRa7IC91FbYfazeAN1kUjnNrwRw4UPwko",
   "min_php": "7.1",
-  "notes": "관리자 화면에서 클릭 한 번으로 업데이트(전자서명 확인·백업). 작성자 이름 표시 설정, 글쓰기 사진 첨부."
+  "notes": "API 포트 설정을 없앰(웹과 같은 443·80만 씀)."
 }
