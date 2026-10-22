@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.6.0.zip",
-  "sha256": "581c58bf37dd83977848ba5285f81ccfc082d3c978e34864d623f61773385b27",
-  "signature": "OOU3jfg7JHob09zs1d/eC37kbLtR/IHkOY/y6tG9srUUmawuJV62Ygunu5RagVr74fdryndWyRWPuY05ttpgU0w91FKurdpnxzBhDFy+Sis75UDpTTSJJLjvdmTsnZN7uctNunEAFeZ9NF1xbYiheOZLDE2SWlNQqkJoQYyL0ZCVx7f9tRe2TwBiAnZ2xjJQWXGMtunr1SyYdNCZjPl+/ZYbztOUxEJ8FvdUqiX+MrxolkDdQ61EvjkeIFpEiOYVk518LmSqxQsi6SAOTcQAteHsGj1La36+ol92YVo80hnfyRS+DitQh4NL32K+XaeSa/VMAL5ZTk2kDDMMAwaJgdla5yfYvYIZs2G2+/2bbVZSzB7Nv1WlD4iOymHj5JtLK53636zcwmhktF72bzusBPW1FLljkYfc+RF0hrD7jaqZ/x64nLuf3I7lF4sTtVCR9ZcPXgllQcWUFi4jcwO8znfShyD1My7rpWecHhzIGpDLt6R2mnZ9yi6fMqYAZ37E",
+  "zip": "releases/appapi-0.6.1.zip",
+  "sha256": "dd8e44202daa11a60aabb2026a3bb0636410cb7b23cb4f44a411f14dec118003",
+  "signature": "lBVXEepZ1Np1jlUh/NjfOgVaTJ/Z+N3aYrF+ZC4sma/IZO/29b2KCLgLK939DrC7krVgaCEart2YXjnoGwpEiGtLRe7NsO0CDZIYnmoDCW8mdzMBmJ/N6bzRqI1d+0Sth1mr6o0zB4/vZdMmQ+D/OaptJ+fs24C6UxN11yfNITUnB2JZkK6SbPopjB5LZ9RzcxvFuvk6dwT1TDQoklnp4gAgrvbmGxw1Aozoab35owMQQB2R9gHssNr8/vf0PhcpYd+OG+Hy0XJzfYAa7iFdRTC5UCsfhQFs4WJWSBGuR0ojGGdhTFJNSa7tJqomvUP9I4EUU5iRKEY5eebMYqgMffDOBTEKfXdO+U1t1IjmIy12qdgIVE5ftLcL6SbAVrb8rhcvHChlNsY2nAymJOVQBt0QpjKduTegWKEvC7ElBdoI7g+XS/28z60k4JUepi0ZLS6PZ8Ab4zMt7uEeHA9rjG9gLyr+4BzaLaC4+N7pBmzwsEPvXLYzCKE45Km1m8zP",
   "min_php": "7.1",
-  "notes": "글 수정(document.source·document.update), 신고·스크랩 버튼은 게시판 스킨 설정대로, 관리자 화면의 게시판 목록 모양 설정 없앰(스킨을 따름)"
+  "notes": "글 수정 때 게시판 관리자는 공지·제목 굵게·제목 색을 바꿀 수 있음(관리자만, 서버가 판단)"
 }
