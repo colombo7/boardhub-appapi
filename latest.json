@@ -1,9 +1,9 @@
 {
-  "version": "0.7.1",
+  "version": "0.8.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.7.1.zip",
-  "sha256": "26777b740db9d69f41c77967902739517371f1c2e83c06c7745535bcec9e5c65",
-  "signature": "KHPgvjTbyNaaUZMHmA8dPgsiMBt2Vc7bWH3TwHLsFImWvsy3LN838tXb0nHjBM1qssRAQqcWU6XVPPgxUeNXYsgjJGEGg2mxSxYVSmuz6ZJ8gc+bMeCW/JURF2ZikgSIlQH1O9Cd9ZKR1qqhkQVvrHSH71e17E591ngZs93FWp91EzlhvJghtrBiVhes0Td/u/+qFEAgTkSaH2qOp7Nh9aQXaOxj5TQsUxFQMgeNa/MAnaGBo+/pvr/bL/IBTTEgatTAyeyiBGUcb60kWci/Dabi0m2FIzzcS450xrMF4XbOhm9QcjIxyBgTh3+es61yQQVPkmiNlpdxcXawyF/gcey7o6dL6UAhbXnEXgP/X6RW/w/tLw3najhqE540crpIRgYikmEBOYlydIO5UhNybmeymO7ufmXWuFkF+JKwgUIY3VB2MqNtkx3SrKEgNQowdwlAXBIxuP882hpfshvWKBzp/q0Ikb4e+o2ir9eMvpH+nhWL1lhZJxBB62mX4PS6",
+  "zip": "releases/appapi-0.8.0.zip",
+  "sha256": "fe8eab45f798d51a50d2f010023ded178bae926235156895ef7544f23e9acc77",
+  "signature": "KlRkoDVyb/hEMDXqMs986q/KEqdFSA8GFw+s8LZs4QedYcyDXhJrylO1HZJ+4JgQVjjz3CWLWKUSIOem9Gt1WY/xLYu5I9Nr1xVVpDtGtbHIZG3qqkMgQCR4PIZBGH3IbPuZAuMgAn2Y5ZP/1hxLTZO1ZwJqt4Cc3Q499yYLyvu2Oy2O1kucvE8CZ7ndFChUsBQ0YWONkifEiUKnCXZAyJLUZ1R2gfH+AoOGgDQsYgpu8P1QWiAN7aUnqMl+WR2wDyBnfeN2DqevLH56Em4vW3GYGol43YoPjwBXsRicT8e9LfygUo/E3k3SZ3gmfXLdP+GiICeYGxVF1eaL/2p8mn7g1CZ/2V4Ympfu/niqg51JVTkGzOqlMiiz3Ekg6Tcdai0ZU987mo1dONVMFNkkMcd0MqQKNg+cK7x6fGzU6Zeliqsgl6e1IyA8wFdDtwjRk+y2CIa7AD5IWUu8T8o0WRpEUY3OTA5vpO2SC1qzE0bT3GDEUhDHxJYltydikeTk",
   "min_php": "7.1",
-  "notes": "짧은 주소 사이트에서 이름 메뉴의 '작성 글 보기'가 빠지던 문제"
+  "notes": "회원 탈퇴(me.leave: 웹과 같은 엔진 탈퇴, 비밀번호 확인, 탈퇴하면 앱 로그인도 지움)"
 }
