@@ -1,9 +1,9 @@
 {
-  "version": "0.6.1",
+  "version": "0.7.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.6.1.zip",
-  "sha256": "dd8e44202daa11a60aabb2026a3bb0636410cb7b23cb4f44a411f14dec118003",
-  "signature": "lBVXEepZ1Np1jlUh/NjfOgVaTJ/Z+N3aYrF+ZC4sma/IZO/29b2KCLgLK939DrC7krVgaCEart2YXjnoGwpEiGtLRe7NsO0CDZIYnmoDCW8mdzMBmJ/N6bzRqI1d+0Sth1mr6o0zB4/vZdMmQ+D/OaptJ+fs24C6UxN11yfNITUnB2JZkK6SbPopjB5LZ9RzcxvFuvk6dwT1TDQoklnp4gAgrvbmGxw1Aozoab35owMQQB2R9gHssNr8/vf0PhcpYd+OG+Hy0XJzfYAa7iFdRTC5UCsfhQFs4WJWSBGuR0ojGGdhTFJNSa7tJqomvUP9I4EUU5iRKEY5eebMYqgMffDOBTEKfXdO+U1t1IjmIy12qdgIVE5ftLcL6SbAVrb8rhcvHChlNsY2nAymJOVQBt0QpjKduTegWKEvC7ElBdoI7g+XS/28z60k4JUepi0ZLS6PZ8Ab4zMt7uEeHA9rjG9gLyr+4BzaLaC4+N7pBmzwsEPvXLYzCKE45Km1m8zP",
+  "zip": "releases/appapi-0.7.0.zip",
+  "sha256": "5a0737f9c836906a7f7f934fe999d6bce1cffe2acda8ba1b0041ec5555bacb1d",
+  "signature": "Fx0cS4PWa5d2BWqbnzw3tX2kaFdAwr8P/HTmUbTXjjkM6d/PT2JtmBzLtKQuwysx+orEdGBrQkJfbHSD1i0pIJURrCdYMh+JLfOSbrwNZ3tWd3iMJKPc65ZAkstKbATEn1Euzhh3Wm3O/lhEaHk//Nu26PfgVQmNRXbcl64lQhYD2E4e8HlXbCkieHUfKIfXqG570wK2pWZZibE7GpkfBDwiji/7aTPYfF++ezivVykO1AVP3zEYY34+e59oMY6jl4nrTYI7ZgYsUxnWmCP5oGzWVvXSpEGZJ2l1ZMvQUnpx4Rc5Nf7/BtRnkvAOxuxeKmuF/i2Cxuw9T6G0IAq7uxSjko74FEAb7ag0WFVVGEAvXs05Rc6il0sQCz3dfla+l4aOvGBai4OpY+9dIJ565kQWaBWO4ZKd8YHC20K9cO89MN2KoPlVcpZKgdfwUSBX+Tk094B5eO5wq4922z6UFVqOvc+MKQqwlokYELvPwQse4FK8AbEh2iF+wdAOJjWw",
   "min_php": "7.1",
-  "notes": "글 수정 때 게시판 관리자는 공지·제목 굵게·제목 색을 바꿀 수 있음(관리자만, 서버가 판단)"
+  "notes": "글쓴이 이름 메뉴(회원 정보 보기·작성글 보기·쪽지 보내기·친구 등록, 웹과 같은 엔진 메뉴), 글·댓글에 author_srl"
 }
