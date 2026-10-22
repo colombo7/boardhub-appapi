@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.7.0.zip",
-  "sha256": "5a0737f9c836906a7f7f934fe999d6bce1cffe2acda8ba1b0041ec5555bacb1d",
-  "signature": "Fx0cS4PWa5d2BWqbnzw3tX2kaFdAwr8P/HTmUbTXjjkM6d/PT2JtmBzLtKQuwysx+orEdGBrQkJfbHSD1i0pIJURrCdYMh+JLfOSbrwNZ3tWd3iMJKPc65ZAkstKbATEn1Euzhh3Wm3O/lhEaHk//Nu26PfgVQmNRXbcl64lQhYD2E4e8HlXbCkieHUfKIfXqG570wK2pWZZibE7GpkfBDwiji/7aTPYfF++ezivVykO1AVP3zEYY34+e59oMY6jl4nrTYI7ZgYsUxnWmCP5oGzWVvXSpEGZJ2l1ZMvQUnpx4Rc5Nf7/BtRnkvAOxuxeKmuF/i2Cxuw9T6G0IAq7uxSjko74FEAb7ag0WFVVGEAvXs05Rc6il0sQCz3dfla+l4aOvGBai4OpY+9dIJ565kQWaBWO4ZKd8YHC20K9cO89MN2KoPlVcpZKgdfwUSBX+Tk094B5eO5wq4922z6UFVqOvc+MKQqwlokYELvPwQse4FK8AbEh2iF+wdAOJjWw",
+  "zip": "releases/appapi-0.7.1.zip",
+  "sha256": "26777b740db9d69f41c77967902739517371f1c2e83c06c7745535bcec9e5c65",
+  "signature": "KHPgvjTbyNaaUZMHmA8dPgsiMBt2Vc7bWH3TwHLsFImWvsy3LN838tXb0nHjBM1qssRAQqcWU6XVPPgxUeNXYsgjJGEGg2mxSxYVSmuz6ZJ8gc+bMeCW/JURF2ZikgSIlQH1O9Cd9ZKR1qqhkQVvrHSH71e17E591ngZs93FWp91EzlhvJghtrBiVhes0Td/u/+qFEAgTkSaH2qOp7Nh9aQXaOxj5TQsUxFQMgeNa/MAnaGBo+/pvr/bL/IBTTEgatTAyeyiBGUcb60kWci/Dabi0m2FIzzcS450xrMF4XbOhm9QcjIxyBgTh3+es61yQQVPkmiNlpdxcXawyF/gcey7o6dL6UAhbXnEXgP/X6RW/w/tLw3najhqE540crpIRgYikmEBOYlydIO5UhNybmeymO7ufmXWuFkF+JKwgUIY3VB2MqNtkx3SrKEgNQowdwlAXBIxuP882hpfshvWKBzp/q0Ikb4e+o2ir9eMvpH+nhWL1lhZJxBB62mX4PS6",
   "min_php": "7.1",
-  "notes": "글쓴이 이름 메뉴(회원 정보 보기·작성글 보기·쪽지 보내기·친구 등록, 웹과 같은 엔진 메뉴), 글·댓글에 author_srl"
+  "notes": "짧은 주소 사이트에서 이름 메뉴의 '작성 글 보기'가 빠지던 문제"
 }
