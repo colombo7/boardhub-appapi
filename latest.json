@@ -1,0 +1,9 @@
+{
+  "version": "0.3.0",
+  "date": "2026-10-22",
+  "zip": "releases/appapi-0.3.0.zip",
+  "sha256": "c5f7a116d360c8a30b4c7a2bef374d38f1817206795f5f88654cee7510efc97e",
+  "signature": "qVrvbvsPYEkkzBAsxDIOCLTSo6doRZAZ5RyOH6K1koeEdPi8xH4wLhXxHP+NXyJdr0BR6UpLyCF26gsI2QIbtL73BPgpeebpnr0kbn+J2osk8eyGzasglTr+3iCzeEQi8UMSVIFPjFngMBA4FwGC4jiBsCl8R3jhN+ny9whrHSeBM8sKUXHr+trb4IFJyHSk9bBRGgsEKCQW2K6ArmjYQjLYKN2ptQeRmVxxXiRjkmPJDO/RvugcB5X48qHkdpFzj1UDCtM2YNxrLZEmbB+l4a8Lx/3idtkRCdkZFHS1gJQaLVzIU+EJgN9VGbNDbWs2ODVoe34nxJGcLwFze0oaLmCCve7RrFEQR237qeVPvJwdTGkjX3fnF2UqXZQbZ+TTyBnyrhW2Zz+01UPCceLQXFmZY5LQl6e46msTrPKjqbnQ9n3QcejRdX0CMA91wiDLQv/9hj4I90F85CMx7yp5Xnk14UdyYsGtpu9GvmfkC1uIE/l0IJdqjuFn3W0fp+L4",
+  "min_php": "7.1",
+  "notes": "관리자 화면에서 클릭 한 번으로 업데이트(전자서명 확인·백업). 작성자 이름 표시 설정, 글쓰기 사진 첨부."
+}
