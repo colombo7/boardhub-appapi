@@ -1,9 +1,9 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "date": "2026-10-22",
-  "zip": "releases/appapi-0.5.0.zip",
-  "sha256": "d3476bfc13c2e9efd1e382326aaca6d304a7e570db5444a9d5d3e228788f06c2",
-  "signature": "E9mPSyRBmazXG+7KmxvpUkgJAOrKEmO2h2n4NN1Qx4NTLcum68aahcXftDNVUusN+ijhXYmo7nqiIffVRmpeL1iERhkULzRHoSDY9KtTLDx2DbDbxUltquqK6yeIc5fKBsHcNp3cUiIYpdJpjB53ZyF+qQAv+YmewkK+Sw6atsn1d/h22gQykF93NNiqMm+YAAQbVeMb4grW8qz3EMmAO3seC0YTv+PaAGGYSP+G15ywCATxGbCA4Wic1VxkSMJSKEH2VzMkQYxwzXOErWMxFtNcOVAu03urTkqe6sfNmYolVPlstg2j+rcUb/V9zwnLy0IrVQEz4OyAIymM+Hnoo/lxbqqD28rDeH8hCUr/IZ9IQCgOD6PhLsb75A/ySmYJu1E0AWjmYDS7827MVKI2qd9kic6J5MD1vT9JVMgLejqFRPqy9MaW2keudYlLTFRMoxI30Xeqa9M6lmlDg9koMAn22QLPNZ+xWK8r6j25NFuuTde+qsgJAECjfLA0T/P9",
+  "zip": "releases/appapi-0.6.0.zip",
+  "sha256": "581c58bf37dd83977848ba5285f81ccfc082d3c978e34864d623f61773385b27",
+  "signature": "OOU3jfg7JHob09zs1d/eC37kbLtR/IHkOY/y6tG9srUUmawuJV62Ygunu5RagVr74fdryndWyRWPuY05ttpgU0w91FKurdpnxzBhDFy+Sis75UDpTTSJJLjvdmTsnZN7uctNunEAFeZ9NF1xbYiheOZLDE2SWlNQqkJoQYyL0ZCVx7f9tRe2TwBiAnZ2xjJQWXGMtunr1SyYdNCZjPl+/ZYbztOUxEJ8FvdUqiX+MrxolkDdQ61EvjkeIFpEiOYVk518LmSqxQsi6SAOTcQAteHsGj1La36+ol92YVo80hnfyRS+DitQh4NL32K+XaeSa/VMAL5ZTk2kDDMMAwaJgdla5yfYvYIZs2G2+/2bbVZSzB7Nv1WlD4iOymHj5JtLK53636zcwmhktF72bzusBPW1FLljkYfc+RF0hrD7jaqZ/x64nLuf3I7lF4sTtVCR9ZcPXgllQcWUFi4jcwO8znfShyD1My7rpWecHhzIGpDLt6R2mnZ9yi6fMqYAZ37E",
   "min_php": "7.1",
-  "notes": "조회수를 사이트 설정대로 셈(앱 접속 번호), 관리자 화면에 배포된 것보다 새 버전 안내"
+  "notes": "글 수정(document.source·document.update), 신고·스크랩 버튼은 게시판 스킨 설정대로, 관리자 화면의 게시판 목록 모양 설정 없앰(스킨을 따름)"
 }
