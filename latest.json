@@ -1,9 +1,9 @@
 {
-  "version": "0.10.8",
+  "version": "0.10.9",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.8.zip",
-  "sha256": "78bbc0a5512286a1fcc4273ab31459bfce92efe7889d46b2dc1b932ad415218b",
-  "signature": "hGo0rwGMS/n0CCsbgn1sqajEcn+sjybWpscfMtBIS6YbG9+66KRxRiTq7lUKJXhEe7DXJAWYEWKyaqitSZlAq6svizR9cPX+I7odwym13I3OaV39kEJDkN3zzrS/Obux/qt+ZF35OEBtVTtlTSt4f3kuTPEXkj5jr/klgatb6H+y+pkqrf1o1wQVJAAVwzR6DsufOAlt3HYAXOTfnL4g9AcBWi0UcPQVv0n22lTOrop+KiUcLEt26jmO1dJyDT3cXkF7B/t7FxYZV0cszLan9z3C0xtDkzYuv4egag3mgNBh4fiV7PvJz1Y7toO238UDd29H2nVal55KC2eb3B8LkpzZRlod0P/5SlFnGQyEnQamOIWs3U08uqiLk9ub7tU6b3RO13BQI4spp8bWY9IJqxBDJf6qQcGAnYRY3jJOop/m4iZyJjtqnHXu5J3gTosQTyn8mqKCi1cQ1BYmMU7F8i+JPAha54vKYw6Cgtr4890GH1WFtEfuwmog6K4zOIgr",
+  "zip": "releases/appapi-0.10.9.zip",
+  "sha256": "bb0183fb41dc25be2681713e28381ed2f00b9bbece9a901762639e60dbb302ff",
+  "signature": "J/7c40TUpsfXLJ+GAz6hWn/izRJH7oacyPcjtqJvrEBGGF9OfmvIBtvC3o4UnW03QbXiKN/Nv+5x3V4TWC+/ywJ1N7P7D2q24WUcQwzhvS4n6lvCiZWByJ/NdGpTm9AFEAeguUAhqTtkpXb+Bl+0tXSO3UYoQhyL9whJqGqzK3LQhXRh6u2VIunVvhDtBAFBcPY93izVfdP/zBd785V6VZld1djxmP5Z2CT1iUqFpPzFsGVtS8/WCC6mdwAq5rI/5gDfm1jzCPRD3YPNfxjvv/crsu2q2E9qHHUzyh9loao3bfYXYUGmuoUdzQq9SkOxaWlHjsJ+klwX598S2LEkitXBRUjMZ30ZXq3h10UPK0XCC89/dDQ3S7bgscw4YuyQNnQkHI2cpYtXX8JO44EjR4RCvC5j8DP9xj/hOz9+alfLA6IBJNuq7Gv/AZbBeeWR430wizyT8s5jJnvKje6I2dpBfOb9aIGsuS1ZYQ+jp1WYLiZzvhIJGN7ALcXygfuT",
   "min_php": "7.1",
-  "notes": "설치 현황 알림(업데이트 확인 때 사이트 주소를 개발자에게, 관리 화면에서 끌 수 있음)"
+  "notes": "관리 화면 '앱 연결'이 '확인하는 중…'에서 멈추던 문제 수정"
 }
