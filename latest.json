@@ -1,9 +1,9 @@
 {
-  "version": "0.10.6",
-  "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.6.zip",
-  "sha256": "d1541c2f16156013b36fe97939b797df61fb25bd464211465574745504fb3eaa",
-  "signature": "PeRnL5+XzenYTXsWCU9TgSlC/yDANH5OuIDwh6Q5uMh5fcjwKvQ16i8s9rykvwT0gYz0kZv0XlyA5knlPOMsracGNFXV2kg1Npg/hkfLjlx885aTI24Zp0mMxo8Pe9TPdMKkkRMov7RZeXwaWAgn93Se6QZBn4+aQH8omhjwU4VdoJl9HLwmvWtfxJ6iNAU+OzAWdhKFZgWZjlB2YfFGB4MEvMRRd7EatOj6u4r6UwjrWwFeGz+Itjy0y6YV515SPWZx2+fgmQSaPP1LiC5khShk4F1eXjg4GJQtnrDoNA5481NWseqodSi581tLOlEn38OsE9UtNoeh3NL5dhsYaTE7YBvncFqepOjGOEVmZhd2wr8OLzBsdeoHcCDqnq5oRmKn+pOXi59m42163QrW5PJuchJurqHg7yVdgkn8TTH/aQ7Tl8AxDgNCHXnnPs/G8TqO1E8tZcJOxt+NdTXYZvImMAQ89VH+YBsyiKCST52PokqKN7Ni7k5nrCnDXkhj",
+  "version": "0.10.7",
+  "date": "2026-10-24",
+  "zip": "releases/appapi-0.10.7.zip",
+  "sha256": "7bd80a1a3200149485a40889828f6a2981cb6412495d2c51784130871eb39af4",
+  "signature": "VMn9lrkOd5p9WSdye44cRSZhXrmeNFoe/1VNLpWr2SbsAlzOiGtU9KjCceMd4cqOmLlQFVXJrwoc8aUK2YPxyVYowfehRcvFfBIMYVj/0AKCX0NyZzRZOFty8096hMDuXq9Jju+riT8ZZWGW3PqtXajx2vULrI+Y3/epa64VWX5c72Tb3/CW84Ax4h9Xs+LXr4kNe2Oi9fSdZGFVslHKjw8PWuEfDLB9bIlaSd0j+ONDUbUcuosjOfZ/ZnfyZSm542wSUEb3a4XuslfnPrCXW6mUDYItM4NXXGtHWedjad08JFsOFD6RzU3LrJdjc+A4z9xjV38B9EhwCAxhA2PGUF6FI4/t6zE/Cm8vgTjf5VskM4TtRty9LpRHb85E6JUda+QtI07veuOO/7t4YcussVs7mOmUSabda5pX8XIUbSyah+z2TOvThabMsWGPnRSsi6OoROulKFYGvKVefm6KSlCnF8qPFgWOzfDY+JZtcpMTK5MAKHbLdq2H7q5mtp5j",
   "min_php": "7.1",
-  "notes": "관리 화면에서 앱 연결을 스스로 확인해 결과만 표시, 저장소 이름 boardmoa-appapi(게시판모아)"
+  "notes": "관리 화면·업데이트 안내를 관리자 언어(한국어/영어)로, 앱에 보내는 안내를 앱 언어로"
 }
