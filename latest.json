@@ -1,9 +1,9 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.2.zip",
-  "sha256": "bc52190d5129748adf6f82738bd8167d62fc3fc5f83034e1fa4f6687adea4395",
-  "signature": "G/e4F56rPo2PA/2cxGInN3/MGsEqqCi0sFKGrllCz+fHeHe/tvFlVxBJBLHeOozexneXI4jpFBHQw+/8gmT/7YorE/gXRFZ6d6Ddgk5OOFd79CYU9s6ZG1hjd69MP/ft4jQiHmvviOSXNXEOOqaQwuYrheZ17rAylcJdW+MNYOD8XSVVYSY1jYY2gDrSHmshZzZifhglhBMelV/ODR8fJtj/0tnB7Fb1UKCYvphA0x8ZuSj+OngNCrMyD+XI5HZCmV3F0+UyoHQ1uBFQhzbX2x34fALQhhjojUCVWOe3xzdM+GG7cK9B4fX7d/+63l1zwSjjNKDL3tpmFTM1nY1GUXuvOSVqyI0nL3IYIyyIdOiO0KxJ+JhX87K5mJBoVkV+JP3KYcYtPaussMOG/dPePEUec9eBq30Q6+3aEUYxi7kStDpJk02zx7qoFOsgGzf2EIin3AX23J7/Wda/yglkEygQDFgsGv8X5jL8b9liCVbKXfD3dPFSRIZ+JzhpA53h",
+  "zip": "releases/appapi-0.10.3.zip",
+  "sha256": "9331990a32c77f6775579b818bc9f7074b56bdc039e471b457eda12c2190efd7",
+  "signature": "T9w/mdByhuZHLP47vNkzibCM+dgSkOzDp+gfA0HaEchKhnQvakUtyJK1xfQZ55BeHMuLRfV9mPnw6/0IT7CdnlMIr/BTEgtZb+7zPQ4wCsIqYbJ20iXdUIfjUlQSOQZaZglq5A/lAMVu1L5FZPyQeV58RENPfHFPPTxNxdWiMRiv6/gPV5Q9VNwPUl023WdD1F/UUkh1SKX8Lc792SlVtucnfHJk6bgGlzPogsfZWzseMrNbza9E6evb5kw22Nki4xM687wi0fiW1FkOfRYrUvrvkqMhi5dpijREGDQxdUfFlJxEEcqrdTUJOrOOcykZ+Wrwhpien9qYhpYUHYdsPfCSXTcE3RUN/RjRZzSViI7znqdbBsV12dc5NADfrnUk3d4oQTv4ji7L216aMEBFFWoZI1IfLR2LViZyeYPau/eqQUUfPFAB8INs5mzwayvrOYBXc8mEk87kNZGKuUxdR6W9x7BilGTegkvyfcJfLmYgwTBBPMHLF+qu9fCafxGr",
   "min_php": "7.1",
-  "notes": "업데이트 확인·받기가 가끔 실패하던 문제 개선(자동으로 다시 시도)"
+  "notes": "앱 내 활동에서 로그인 기록 메뉴를 뺌"
 }
