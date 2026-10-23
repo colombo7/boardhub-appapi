@@ -1,9 +1,9 @@
 {
-  "version": "0.10.3",
+  "version": "0.10.4",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.3.zip",
-  "sha256": "9331990a32c77f6775579b818bc9f7074b56bdc039e471b457eda12c2190efd7",
-  "signature": "T9w/mdByhuZHLP47vNkzibCM+dgSkOzDp+gfA0HaEchKhnQvakUtyJK1xfQZ55BeHMuLRfV9mPnw6/0IT7CdnlMIr/BTEgtZb+7zPQ4wCsIqYbJ20iXdUIfjUlQSOQZaZglq5A/lAMVu1L5FZPyQeV58RENPfHFPPTxNxdWiMRiv6/gPV5Q9VNwPUl023WdD1F/UUkh1SKX8Lc792SlVtucnfHJk6bgGlzPogsfZWzseMrNbza9E6evb5kw22Nki4xM687wi0fiW1FkOfRYrUvrvkqMhi5dpijREGDQxdUfFlJxEEcqrdTUJOrOOcykZ+Wrwhpien9qYhpYUHYdsPfCSXTcE3RUN/RjRZzSViI7znqdbBsV12dc5NADfrnUk3d4oQTv4ji7L216aMEBFFWoZI1IfLR2LViZyeYPau/eqQUUfPFAB8INs5mzwayvrOYBXc8mEk87kNZGKuUxdR6W9x7BilGTegkvyfcJfLmYgwTBBPMHLF+qu9fCafxGr",
+  "zip": "releases/appapi-0.10.4.zip",
+  "sha256": "a5a134d1c512bd84d50bd7f0d45c1ce8f5749116e3a9b0e3975541245a87f868",
+  "signature": "ow9HEP8w65z7ElIRO7xJmOo77N/FVU6Bq7a0/PuFC7s/ZAQLNEwPZ0aA5+MYTHGfeBXe0qXxQU8J5ts4cztcAfoJkkPeas/w3TsdZZr17GSMAkNE+cjqCbJEICjHV5BMwlfgRuqhW9os+pVVGIPl3ivmh2QQymPFPISYvszIPIgYFWOmp25v2cjiwT2t+1HtYeRUa9EaJ0uqz/ZDvD8IaCJA9uyI6bw/R7GvzmC1vHNM1uly/AU0yRaJDnVON2nfc2fnGPQS6UzFzhrvakQf3FWtHYuE3/Mmub5o+iVAOq3XZn6S9JlGUxoN11MYHFbgNJyd+cVhT/z/yGhrQbAPInAffA+kIBZ/lvokWmoAlw1SOfwm3K4O5SyWEi7VJxS4dgCUrbCsz1Wr1QdygYxE0xOPJwvvgsOiiGJbGY2eZpWv2CniLydVULOdT5jR1shy96xWrz0ThCDGf1W3wJRh3EZeHrlofbwF4tYjhlTeS4kK/2CPw9DS9jGyUlX7PVWs",
   "min_php": "7.1",
-  "notes": "앱 내 활동에서 로그인 기록 메뉴를 뺌"
+  "notes": "앱 알림 지원(댓글·추천·이름 언급 알림 보기, 앱에서 글을 열면 그 글의 알림이 꺼짐)"
 }
