@@ -1,9 +1,9 @@
 {
-  "version": "0.10.5",
+  "version": "0.10.6",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.5.zip",
-  "sha256": "e5a2d88c259092d157932dc2e567c947cb6c21467abc2c45d6f599a3b616fb9f",
-  "signature": "l079I/hK4lCdT8cbBXmFbJoI4UPfGZXLE1cud1pBZBkzZDLEEXGiZL74NHEG/qKqbMDuaQMXupEDPnJ5UvMr/WU3lxCRFq0cD/1A0T+xew14TuG5DBllxYe9YDgbqRlEbsrlO7wH4NvAzhFKbqXPok8RETGuLL+wIzDykDQFTRVD1lVTdIu3JGh/UHXqnWezlnpGrm+oHKzboKgxSiBl7xhe8Hv6EJHC0TwJxu99n0woTPZAjE1E5clkPF0HvPuprsZGYbzf3JnDmublCMeh10UXbl7A0n5M6E/jll1exqtP06QCLd7BTn3RmZz8WhpqNJe8ksjB4rjIoz/ZBmbD3kRGHReihqG3kWt51+494K/14jvvQqjpcmJU8cAB7GJlzyvooL0v3gBrur30x/tlc6wYvptW3AWauLRiQ7KdVGfTOJuevJiudmu6nKk7gnZfx4QUD3/UQjn0QPS74K9KVNFg6SjvfutFycZDmZUA+zdIEBaws0g5/1j0oS1iYOtW",
+  "zip": "releases/appapi-0.10.6.zip",
+  "sha256": "d1541c2f16156013b36fe97939b797df61fb25bd464211465574745504fb3eaa",
+  "signature": "PeRnL5+XzenYTXsWCU9TgSlC/yDANH5OuIDwh6Q5uMh5fcjwKvQ16i8s9rykvwT0gYz0kZv0XlyA5knlPOMsracGNFXV2kg1Npg/hkfLjlx885aTI24Zp0mMxo8Pe9TPdMKkkRMov7RZeXwaWAgn93Se6QZBn4+aQH8omhjwU4VdoJl9HLwmvWtfxJ6iNAU+OzAWdhKFZgWZjlB2YfFGB4MEvMRRd7EatOj6u4r6UwjrWwFeGz+Itjy0y6YV515SPWZx2+fgmQSaPP1LiC5khShk4F1eXjg4GJQtnrDoNA5481NWseqodSi581tLOlEn38OsE9UtNoeh3NL5dhsYaTE7YBvncFqepOjGOEVmZhd2wr8OLzBsdeoHcCDqnq5oRmKn+pOXi59m42163QrW5PJuchJurqHg7yVdgkn8TTH/aQ7Tl8AxDgNCHXnnPs/G8TqO1E8tZcJOxt+NdTXYZvImMAQ89VH+YBsyiKCST52PokqKN7Ni7k5nrCnDXkhj",
   "min_php": "7.1",
-  "notes": "XE 사이트에서 앱으로 스크랩할 때 오류 창이 함께 뜨던 문제 수정"
+  "notes": "관리 화면에서 앱 연결을 스스로 확인해 결과만 표시, 저장소 이름 boardmoa-appapi(게시판모아)"
 }

@@ -1,6 +1,6 @@
-# 앱 연동 모듈 (BoardHub) 설치 안내
+# 앱 연동 모듈 (게시판모아) 설치 안내
 
-스마트폰 게시판 앱 BoardHub에서 이 사이트의 게시판을 볼 수 있게 해 주는 모듈입니다.
+스마트폰 앱 게시판모아에서 이 사이트의 게시판을 볼 수 있게 해 주는 모듈입니다.
 
 - **지원 엔진:** XpressEngine 1.11 이상(PHP 7.1 이상), Rhymix 2.1 이상
 - **사이트 변경 범위:** 코어 파일이나 서버(nginx·Apache) 설정은 바꾸지 않습니다.
@@ -19,7 +19,7 @@
 
 처음 설치한 뒤에는 FTP 없이 관리자 화면 → 설치된 모듈(기능) → **앱 연동** → **업데이트 확인**으로 새 버전을 받습니다.
 
-- 새 버전은 [github.com/colombo7/boardhub-appapi](https://github.com/colombo7/boardhub-appapi)에서 받습니다. 받은 파일은 **전자서명을 확인한 뒤에만** 설치합니다.
+- 새 버전은 [github.com/colombo7/boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi)에서 받습니다. 받은 파일은 **전자서명을 확인한 뒤에만** 설치합니다.
 - 설치 전에 지금 파일을 `files/appapi_backup/<버전>-<시각>/`에 복사해 둡니다. 사이트 설정 파일(`config.php`)은 바꾸지 않습니다.
 - **조건:** 웹 서버(PHP)가 `modules/appapi` 폴더에 쓸 수 있어야 합니다. 처음 설치할 때 한 번 소유자를 웹 서버 계정으로 바꿔 두세요.
   - 예: `chown -R nginx:nginx modules/appapi` (Apache 이면 `apache` 또는 `www-data`)
