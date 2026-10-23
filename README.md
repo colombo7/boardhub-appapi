@@ -5,4 +5,4 @@
 - 최신 버전: [latest.json](latest.json) · 내려받기: [releases/](releases/)
 - 설치 안내: [INSTALL.md](INSTALL.md)
 - 처음 한 번 설치한 뒤에는 관리자 화면 → 앱 연동 → **업데이트 확인**으로 새 버전을 받을 수 있습니다. 받은 파일은 전자서명을 확인한 뒤에만 설치됩니다.
-- 앱의 추천 사이트 목록: [sites.json](sites.json). 모듈을 설치해 앱에서 잘 열리면 easyapplabs@gmail.com 으로 알려 주세요.
+- 모듈을 설치해 앱에서 잘 열리면 easyapplabs@gmail.com 으로 알려 주세요. 앱의 추천 사이트에 올려 드립니다.
