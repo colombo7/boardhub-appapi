@@ -1,9 +1,9 @@
 {
-  "version": "0.10.9",
+  "version": "0.10.10",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.9.zip",
-  "sha256": "bb0183fb41dc25be2681713e28381ed2f00b9bbece9a901762639e60dbb302ff",
-  "signature": "J/7c40TUpsfXLJ+GAz6hWn/izRJH7oacyPcjtqJvrEBGGF9OfmvIBtvC3o4UnW03QbXiKN/Nv+5x3V4TWC+/ywJ1N7P7D2q24WUcQwzhvS4n6lvCiZWByJ/NdGpTm9AFEAeguUAhqTtkpXb+Bl+0tXSO3UYoQhyL9whJqGqzK3LQhXRh6u2VIunVvhDtBAFBcPY93izVfdP/zBd785V6VZld1djxmP5Z2CT1iUqFpPzFsGVtS8/WCC6mdwAq5rI/5gDfm1jzCPRD3YPNfxjvv/crsu2q2E9qHHUzyh9loao3bfYXYUGmuoUdzQq9SkOxaWlHjsJ+klwX598S2LEkitXBRUjMZ30ZXq3h10UPK0XCC89/dDQ3S7bgscw4YuyQNnQkHI2cpYtXX8JO44EjR4RCvC5j8DP9xj/hOz9+alfLA6IBJNuq7Gv/AZbBeeWR430wizyT8s5jJnvKje6I2dpBfOb9aIGsuS1ZYQ+jp1WYLiZzvhIJGN7ALcXygfuT",
+  "zip": "releases/appapi-0.10.10.zip",
+  "sha256": "76773bebe6edb271decb4f6910cbfc022fa1b1dd3ee167041084d162637e1510",
+  "signature": "VtUSBFgURNXrDXgW9laEs1Mk6arbgXRIgSoUClBJNAnmcA/H0DrwRg/n5lLIzOiQ0LVMOE+ABLVNZPFTiKb1QOgvoKo/auz+JOhqlexkjT0SfWuB7e204lNegVOgHEY2iydfgeEcfWHo2jEZ96LOBSZxa7n12LQAwc4ozeim8sseCwNHh7k0pn8EwnfFX/pG1MkQ5lMnZjq/fojl8URx7L19D0KEL2jqI6pEKKOtJ2ifRew29UX0fZ4fgZW07b87Sj/2Zb6frLujcZq39Pqre4UZNCy37wl95LQB9Zkf3ZmuEqYA1tYCK+AUk8Dk6AJop85xxGNpo5rtPcpqr9OFTbl1Kz0vTvNqNHyNhleWdFasv99MgTLi4/vHUM3zR4AeJcF71oLJBlmGuNO+HBIvfF1WKzdn0kcUfC7eXP40k6O4ua9teoPbFhiIX24UKJ6EX4ev+tnXeurKNGbZ10pe23JEgJqk5VPsv4FPcs7kZVH7wyOva5xQo5X1fQnhzGXs",
   "min_php": "7.1",
-  "notes": "관리 화면 '앱 연결'이 '확인하는 중…'에서 멈추던 문제 수정"
+  "notes": "관리 화면의 앱 연결 확인 후 관리자가 로그아웃되던 문제 수정"
 }
