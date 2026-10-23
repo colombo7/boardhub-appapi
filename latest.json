@@ -1,9 +1,9 @@
 {
-  "version": "0.10.1",
+  "version": "0.10.2",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.1.zip",
-  "sha256": "0bad15214250b9b9734ee75d4e38732f961c2ab506f5d3173299e3c73ebfedda",
-  "signature": "T7m7FMaWr/4KJilVMibwTaVMjT/OE3gLHvY/WkKP6E2GiOBXaJV7PJzzA0WgOgLROXKJpurrPcIDOa6F+7eVJe4tablYRlYpt91NQQyhf5W197v2pPP5buOu+zYjJyGrMbXH4e68RGObPpv0VqL2WGvDKQtGFg+igAgWGdV855aiV7ytt4JKbmR9b+z47Zn0VzwGnQcDWXKCv0eZNWsyo8omy5huUTwWkQ4AqI86e2uGzf7K/ZnaZcc20HjWUzqOd8XwzcMytrYvg1RcogrDnjXAqZ3H9KT7pbEYInreoVvkVWO+oXnMH4NNny30/FYVRDEpy9aaWN4KESP3SEiRqrqLjEjIMi2zOHDcZt7N8LzMKSne22ulq1rL6dyVEMEVin+cpfFwZo9NJ91EJNWUkgyehCWQOl6uIaAAYnO42gXymY6ZiSatw3u+UoDu70EfsD8uexdiHT7d6ekihKJ+M2Khrm8dTTss0PQq3B4kbAc4i//M4kdK6FgOh9GJTHtg",
+  "zip": "releases/appapi-0.10.2.zip",
+  "sha256": "bc52190d5129748adf6f82738bd8167d62fc3fc5f83034e1fa4f6687adea4395",
+  "signature": "G/e4F56rPo2PA/2cxGInN3/MGsEqqCi0sFKGrllCz+fHeHe/tvFlVxBJBLHeOozexneXI4jpFBHQw+/8gmT/7YorE/gXRFZ6d6Ddgk5OOFd79CYU9s6ZG1hjd69MP/ft4jQiHmvviOSXNXEOOqaQwuYrheZ17rAylcJdW+MNYOD8XSVVYSY1jYY2gDrSHmshZzZifhglhBMelV/ODR8fJtj/0tnB7Fb1UKCYvphA0x8ZuSj+OngNCrMyD+XI5HZCmV3F0+UyoHQ1uBFQhzbX2x34fALQhhjojUCVWOe3xzdM+GG7cK9B4fX7d/+63l1zwSjjNKDL3tpmFTM1nY1GUXuvOSVqyI0nL3IYIyyIdOiO0KxJ+JhX87K5mJBoVkV+JP3KYcYtPaussMOG/dPePEUec9eBq30Q6+3aEUYxi7kStDpJk02zx7qoFOsgGzf2EIin3AX23J7/Wda/yglkEygQDFgsGv8X5jL8b9liCVbKXfD3dPFSRIZ+JzhpA53h",
   "min_php": "7.1",
-  "notes": "XE 사이트에서 앱의 쪽지함·친구 메뉴가 나오지 않던 문제 수정"
+  "notes": "업데이트 확인·받기가 가끔 실패하던 문제 개선(자동으로 다시 시도)"
 }
