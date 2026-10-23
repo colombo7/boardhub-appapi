@@ -1,9 +1,9 @@
 {
-  "version": "0.10.0",
+  "version": "0.10.1",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.0.zip",
-  "sha256": "3e521afafdc7501a7aa8ef34c339b4e0b2e5005bf5c1d55951995b1f615ecc0a",
-  "signature": "X+C8hOckX5nM4rzTL/fpeevz+YEr8odDIAJJ6Yta+ccNMx+ioPtXD1shryjRveT0qN3LmJm5Dvg3Y/k/bewC0vBm9UmnJkU75FdXkIP0RmFW2Pz5Zjc+TeYoC4h6yElKnxeLFZwzIBVZgeQUnYaSeT4Hs18+x1Wy9DEW75/KqA7NB49N92lIG4e/9F6m4ld0qm9tmqiOZmqer62Xc710JTSIZmyr625AwBGw33sedeCcCNzeCs+BR37zIrGTgPbdO5NArU4jHv9Uqwl15EVao/zs+HjlCoiCI32Y56ugZI5G2LUG0HlwkXfBFymWoVxZNfYDR8uJBjrsd0Wzl1LfZEqcxK2UwO1DcK8AgygTknNKyhUGHp1uTT3kgmd7QPXC4C2GrZ3jHftw6v1FgiXh1brxebGyjxxtvTa3YWWnz2ZozXNBLqUUvwl9VEVlL/SSJtjiG93ZA3er+FvmztVA39MEjfigIPziyKVL1GOHqR8xeeZupnQOH6DW9I12OF3m",
+  "zip": "releases/appapi-0.10.1.zip",
+  "sha256": "0bad15214250b9b9734ee75d4e38732f961c2ab506f5d3173299e3c73ebfedda",
+  "signature": "T7m7FMaWr/4KJilVMibwTaVMjT/OE3gLHvY/WkKP6E2GiOBXaJV7PJzzA0WgOgLROXKJpurrPcIDOa6F+7eVJe4tablYRlYpt91NQQyhf5W197v2pPP5buOu+zYjJyGrMbXH4e68RGObPpv0VqL2WGvDKQtGFg+igAgWGdV855aiV7ytt4JKbmR9b+z47Zn0VzwGnQcDWXKCv0eZNWsyo8omy5huUTwWkQ4AqI86e2uGzf7K/ZnaZcc20HjWUzqOd8XwzcMytrYvg1RcogrDnjXAqZ3H9KT7pbEYInreoVvkVWO+oXnMH4NNny30/FYVRDEpy9aaWN4KESP3SEiRqrqLjEjIMi2zOHDcZt7N8LzMKSne22ulq1rL6dyVEMEVin+cpfFwZo9NJ91EJNWUkgyehCWQOl6uIaAAYnO42gXymY6ZiSatw3u+UoDu70EfsD8uexdiHT7d6ekihKJ+M2Khrm8dTTss0PQq3B4kbAc4i//M4kdK6FgOh9GJTHtg",
   "min_php": "7.1",
-  "notes": "앱의 내 활동(작성 글·댓글, 스크랩, 저장함, 쪽지함, 친구, 로그인 기록) 지원. 목록만 볼 수 있는 게시판도 새 글 모아 보기에 제목 표시"
+  "notes": "XE 사이트에서 앱의 쪽지함·친구 메뉴가 나오지 않던 문제 수정"
 }
