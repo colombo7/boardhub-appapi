@@ -1,9 +1,9 @@
 {
-  "version": "0.9.0",
-  "date": "2026-10-22",
-  "zip": "releases/appapi-0.9.0.zip",
-  "sha256": "776065e79fed501475761c4672f621e19b1b38578fc847ca0a708b6241de0d48",
-  "signature": "DJF4RpYAtyr6TOYnlSPHmRA1AeSX29t7BPnuMAHRHoAJxosFVyTx8p7zo+97ot6nuE9h+uS3tV1htzRJ1SxxDcmLaw9DiE03ZKWFX9Kb81Ukh8ueur4fcpSBs3BAQ+332Kcy/1trteSOlBePozcEs/+Cm9eSYGvnOuSi8uRYo7eKfB0jb9xnHc/YyRghP91nco9IrkOoFtDyyfIu9ykGCx2ywE3CYY+KQQGAcTq1xJKOqHAPDW8sadZQTrtQ65OgZW1XX7OUgub5tbSGij6bLP7wMKJrzgE33WBKRmbhJ0fqfGnjTVky1fxklnCfI/RzucG6G8Az9/fIZw+QAx811YmP9n0bClQ+uEEG9plRJCJ8b/04DHfic8v/29FwrJ5C923zbrPvgePeyEvaA38voVBWiIRWbUuCNW8Zw58VHpJgxLTuQIFMp7Vs/6uc+8Rr9EO9O/2czqkyJqY4hOlBdPb3e9GwaBK81xPsm4uynCVoCOzt3ZI3OY1LxR39OsVM",
+  "version": "0.10.0",
+  "date": "2026-10-23",
+  "zip": "releases/appapi-0.10.0.zip",
+  "sha256": "3e521afafdc7501a7aa8ef34c339b4e0b2e5005bf5c1d55951995b1f615ecc0a",
+  "signature": "X+C8hOckX5nM4rzTL/fpeevz+YEr8odDIAJJ6Yta+ccNMx+ioPtXD1shryjRveT0qN3LmJm5Dvg3Y/k/bewC0vBm9UmnJkU75FdXkIP0RmFW2Pz5Zjc+TeYoC4h6yElKnxeLFZwzIBVZgeQUnYaSeT4Hs18+x1Wy9DEW75/KqA7NB49N92lIG4e/9F6m4ld0qm9tmqiOZmqer62Xc710JTSIZmyr625AwBGw33sedeCcCNzeCs+BR37zIrGTgPbdO5NArU4jHv9Uqwl15EVao/zs+HjlCoiCI32Y56ugZI5G2LUG0HlwkXfBFymWoVxZNfYDR8uJBjrsd0Wzl1LfZEqcxK2UwO1DcK8AgygTknNKyhUGHp1uTT3kgmd7QPXC4C2GrZ3jHftw6v1FgiXh1brxebGyjxxtvTa3YWWnz2ZozXNBLqUUvwl9VEVlL/SSJtjiG93ZA3er+FvmztVA39MEjfigIPziyKVL1GOHqR8xeeZupnQOH6DW9I12OF3m",
   "min_php": "7.1",
-  "notes": "0.9.0: 앱 회원가입(웹 가입 설정 그대로)"
+  "notes": "앱의 내 활동(작성 글·댓글, 스크랩, 저장함, 쪽지함, 친구, 로그인 기록) 지원. 목록만 볼 수 있는 게시판도 새 글 모아 보기에 제목 표시"
 }
