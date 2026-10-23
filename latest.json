@@ -1,9 +1,9 @@
 {
-  "version": "0.10.4",
+  "version": "0.10.5",
   "date": "2026-10-23",
-  "zip": "releases/appapi-0.10.4.zip",
-  "sha256": "a5a134d1c512bd84d50bd7f0d45c1ce8f5749116e3a9b0e3975541245a87f868",
-  "signature": "ow9HEP8w65z7ElIRO7xJmOo77N/FVU6Bq7a0/PuFC7s/ZAQLNEwPZ0aA5+MYTHGfeBXe0qXxQU8J5ts4cztcAfoJkkPeas/w3TsdZZr17GSMAkNE+cjqCbJEICjHV5BMwlfgRuqhW9os+pVVGIPl3ivmh2QQymPFPISYvszIPIgYFWOmp25v2cjiwT2t+1HtYeRUa9EaJ0uqz/ZDvD8IaCJA9uyI6bw/R7GvzmC1vHNM1uly/AU0yRaJDnVON2nfc2fnGPQS6UzFzhrvakQf3FWtHYuE3/Mmub5o+iVAOq3XZn6S9JlGUxoN11MYHFbgNJyd+cVhT/z/yGhrQbAPInAffA+kIBZ/lvokWmoAlw1SOfwm3K4O5SyWEi7VJxS4dgCUrbCsz1Wr1QdygYxE0xOPJwvvgsOiiGJbGY2eZpWv2CniLydVULOdT5jR1shy96xWrz0ThCDGf1W3wJRh3EZeHrlofbwF4tYjhlTeS4kK/2CPw9DS9jGyUlX7PVWs",
+  "zip": "releases/appapi-0.10.5.zip",
+  "sha256": "e5a2d88c259092d157932dc2e567c947cb6c21467abc2c45d6f599a3b616fb9f",
+  "signature": "l079I/hK4lCdT8cbBXmFbJoI4UPfGZXLE1cud1pBZBkzZDLEEXGiZL74NHEG/qKqbMDuaQMXupEDPnJ5UvMr/WU3lxCRFq0cD/1A0T+xew14TuG5DBllxYe9YDgbqRlEbsrlO7wH4NvAzhFKbqXPok8RETGuLL+wIzDykDQFTRVD1lVTdIu3JGh/UHXqnWezlnpGrm+oHKzboKgxSiBl7xhe8Hv6EJHC0TwJxu99n0woTPZAjE1E5clkPF0HvPuprsZGYbzf3JnDmublCMeh10UXbl7A0n5M6E/jll1exqtP06QCLd7BTn3RmZz8WhpqNJe8ksjB4rjIoz/ZBmbD3kRGHReihqG3kWt51+494K/14jvvQqjpcmJU8cAB7GJlzyvooL0v3gBrur30x/tlc6wYvptW3AWauLRiQ7KdVGfTOJuevJiudmu6nKk7gnZfx4QUD3/UQjn0QPS74K9KVNFg6SjvfutFycZDmZUA+zdIEBaws0g5/1j0oS1iYOtW",
   "min_php": "7.1",
-  "notes": "앱 알림 지원(댓글·추천·이름 언급 알림 보기, 앱에서 글을 열면 그 글의 알림이 꺼짐)"
+  "notes": "XE 사이트에서 앱으로 스크랩할 때 오류 창이 함께 뜨던 문제 수정"
 }
