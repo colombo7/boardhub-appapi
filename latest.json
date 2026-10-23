@@ -1,9 +1,9 @@
 {
-  "version": "0.10.10",
+  "version": "0.10.11",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.10.zip",
-  "sha256": "76773bebe6edb271decb4f6910cbfc022fa1b1dd3ee167041084d162637e1510",
-  "signature": "VtUSBFgURNXrDXgW9laEs1Mk6arbgXRIgSoUClBJNAnmcA/H0DrwRg/n5lLIzOiQ0LVMOE+ABLVNZPFTiKb1QOgvoKo/auz+JOhqlexkjT0SfWuB7e204lNegVOgHEY2iydfgeEcfWHo2jEZ96LOBSZxa7n12LQAwc4ozeim8sseCwNHh7k0pn8EwnfFX/pG1MkQ5lMnZjq/fojl8URx7L19D0KEL2jqI6pEKKOtJ2ifRew29UX0fZ4fgZW07b87Sj/2Zb6frLujcZq39Pqre4UZNCy37wl95LQB9Zkf3ZmuEqYA1tYCK+AUk8Dk6AJop85xxGNpo5rtPcpqr9OFTbl1Kz0vTvNqNHyNhleWdFasv99MgTLi4/vHUM3zR4AeJcF71oLJBlmGuNO+HBIvfF1WKzdn0kcUfC7eXP40k6O4ua9teoPbFhiIX24UKJ6EX4ev+tnXeurKNGbZ10pe23JEgJqk5VPsv4FPcs7kZVH7wyOva5xQo5X1fQnhzGXs",
+  "zip": "releases/appapi-0.10.11.zip",
+  "sha256": "539ab9db7a0a7826a283c2876ec8adfc3780128f71d8b10e314eb47d66012a93",
+  "signature": "m7Ip04RyL71z2TwcRmVt0IpD3R2XZOiatyj1QffyWjB7Gls70IXtWTQETGfGe5+NR/e5f4HNnRpGxsmrnq8CTPP9rZc18OoBZBS++1X5yCNmsVR7fq28F7JIwr6i7uKSbwGhWMse+jG6NF/qBbEIdH1uEjvs8dlfMpbl1JaEy4gmAVyP50RKx7wkbrKhePcH75G1+39t6T12M/z556StvpCVeGF8s6wBiNHVM7tyRBhbgL1AoQzPeEMgUquarDjX69Nv6F8+RZJ4kINPc/BTY0JHtAy4ElJ6QxtkaqzEwteBqNnifcWSDxd7lmcTdPLVhMEwEf3NlimW9IfqzwAyKUCCGJnmQ4H2+11I11Jogxsx2nlHKKzv9deRKL3tNH/2DPy+9KI6XFEa6SPaJKF9DcGUJT86BLh/i0KIaeVWY69yDnXtIixV+j7RqF5haD2UR9QhMt+V0BM0DO1BGdpQERuAKTW+DlVJpyCNOZLC3GjPDgQbmnF6XzWtXaoBL7zy",
   "min_php": "7.1",
-  "notes": "관리 화면의 앱 연결 확인 후 관리자가 로그아웃되던 문제 수정"
+  "notes": "설치 현황 알리기 안내 문구 보강(모듈 개발에 참고 자료)"
 }
