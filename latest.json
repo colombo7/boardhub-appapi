@@ -1,9 +1,9 @@
 {
-  "version": "0.10.15",
+  "version": "0.10.16",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.15.zip",
-  "sha256": "7a94b4630a2e15cddb225ce84b9592e49e9e164fbe1ac06b16fa879c0336e02d",
-  "signature": "euuq6rblQBt8tW+Qm2Lu1iJEaK9ZxOrVCCs2EZBNQecnUGT8y476cTqGFqBBMrkuV5bhr6HBF+nThhyzwe5in30W8dhouGRoHRCyRbCHMs8J7H2gArNcsTK1cXc1cRzmVkA6nygeQ9VjgNkgMmp2DnuP0xNonq4yaziGHWZFzNfUYhdTlbc9epLmzWppJ2CgPPkLwndX/QfuqpW862RXg5U4FnKNskPKd/amWvr//YcH6399sJMdwPaWSwaPxgZTCdNs6mErUe8R4nC57+o3WbzXMPWvZw55e2+y5jlp3LIM24gBdhC0ov6bgX1AC+9M24X20uxNJogG2Lq6uVpcAxc+8L2lmB6sWVSUvwQ2ns3bdTbB/BCVQEZy6KOFNMCkpvmL31EedSGWxl55Xf2dKiYEgcqqCsH/zLpHOOgxZgzGSlZ5hpMoeLrHtReBaisQWpoiSpCCvLWUMBI4Hdsw4fCvmjVwO0hXdk+CY16Kiwq7TIL5s9Jbaotjsc9D1GQD",
+  "zip": "releases/appapi-0.10.16.zip",
+  "sha256": "a1e787b514847b99cd72e238048fd2e7b9439eab82d13f6f8a823dcda1524217",
+  "signature": "Kf2BT2cZ27eER6g5FlLCf14W56Ejpdb6UuFD+SKLCaPgg6IPLATL/Ub0iBKkC4OSrqWfLyhZU8DUXYMMLhPt5XA40qQ/l4ad8pvbQDGh1aUqxWWSg7THy0LIbZ9uNg3XikpXgKnHJvkvahgAXzhQEfLv86pydRty+EHijBAw3qUywB+EW/nT9WsuoVdKNuwWWdLTHrqn3yoTJJXlqgFmmEmdTHs1/MZZejFtZD8Xcvs5FODr0IzlMtrmnJfNDl1e5DAv1r94n7CtGHasDpttwe/mtOqORg81i8XEIp+51A5XTGQps0ryddRT9B8puGgFZNm0cHiXa3zQ5yPMsbxWWsqDskdZjdfRRDGCdJgzCuN5RWvBrcHlfI5UrPzn+/z7FaZESTPi+KFarE/8PEiC2pNIkqOIcPb10xaH4wuxNHtzeoTJvRI04uHd+f8uxqA8CZBmzMeslqzimDjk3RidHTGHm3YPkZBZXwYihbtqQYn2bLt09GirherJrmolPYkc",
   "min_php": "7.1",
-  "notes": "앱에서 CAPTCHA(reCAPTCHA·Turnstile) 풀기 지원: 글쓰기·댓글·가입·로그인. 앱 로그인도 사이트의 로그인 CAPTCHA 설정을 따른다(답은 엔진이 확인)"
+  "notes": "사진 첨부를 웹과 같게: 비회원 글쓰기·사진 첨부(웹에서 허용한 게시판만, 이름·비밀번호 입력), 글 수정 때 사진 추가"
 }
