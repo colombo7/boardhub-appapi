@@ -1,9 +1,9 @@
 {
-  "version": "0.10.16",
+  "version": "0.10.17",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.16.zip",
-  "sha256": "a1e787b514847b99cd72e238048fd2e7b9439eab82d13f6f8a823dcda1524217",
-  "signature": "Kf2BT2cZ27eER6g5FlLCf14W56Ejpdb6UuFD+SKLCaPgg6IPLATL/Ub0iBKkC4OSrqWfLyhZU8DUXYMMLhPt5XA40qQ/l4ad8pvbQDGh1aUqxWWSg7THy0LIbZ9uNg3XikpXgKnHJvkvahgAXzhQEfLv86pydRty+EHijBAw3qUywB+EW/nT9WsuoVdKNuwWWdLTHrqn3yoTJJXlqgFmmEmdTHs1/MZZejFtZD8Xcvs5FODr0IzlMtrmnJfNDl1e5DAv1r94n7CtGHasDpttwe/mtOqORg81i8XEIp+51A5XTGQps0ryddRT9B8puGgFZNm0cHiXa3zQ5yPMsbxWWsqDskdZjdfRRDGCdJgzCuN5RWvBrcHlfI5UrPzn+/z7FaZESTPi+KFarE/8PEiC2pNIkqOIcPb10xaH4wuxNHtzeoTJvRI04uHd+f8uxqA8CZBmzMeslqzimDjk3RidHTGHm3YPkZBZXwYihbtqQYn2bLt09GirherJrmolPYkc",
+  "zip": "releases/appapi-0.10.17.zip",
+  "sha256": "49cb43f7900a27de095ca65c95b6468bb7fcca457d8c86d3a27c689724930e13",
+  "signature": "oph/NhjfgZLyUr41imeCjYjoNAoM/nNVur2bbW3j7hAUH5SOoN+raDAXrsW0nCRnxhXL1uvJApUL42mIW+LG82pJpa9F2nDZy6MKvG+BInD4yAWp2RIlR/ES6vfQq++hLiXSKZOtjx4n0McvELr+9bn3Otv14RPuTo7IxdzcN0jiBUvAJ7OFCstReUdxecWMk3uiA0uyUjQYJthuHAnwtuCNk0Q8bbFDQBzmfUxyYB0U8n6W3TK1gAKZFvlS7YNbmSv9xU/9LSgPxfKuT1q1pFKy5eb8VhNXEXBGbuM8A3b7yu1DUaJmk/f12XCPXoPb2LSKIKPLxnG9c/XF/s14HXaE7X5utMUbScuIcYvUNiWkX/ZzS4qtPciGlzZNSr7U4H9btT99XVs0LjrILcRUyQe2BrnNs5ucOSHyAjuN6JR0okPd+uil88j3irMzjw4XCJTnN0TX6dww5AVwkekBT1XEKlodVuBD4l4F9PyhpNkRWKQxB/in1AG9WLY9cCIY",
   "min_php": "7.1",
-  "notes": "사진 첨부를 웹과 같게: 비회원 글쓰기·사진 첨부(웹에서 허용한 게시판만, 이름·비밀번호 입력), 글 수정 때 사진 추가"
+  "notes": "비회원 글·댓글을 웹처럼 비밀번호로 수정·삭제, 비회원 댓글 쓰기, 비회원 비밀글을 비밀번호로 보기, 댓글 수정"
 }
