@@ -1,9 +1,9 @@
 {
-  "version": "0.10.17",
-  "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.17.zip",
-  "sha256": "49cb43f7900a27de095ca65c95b6468bb7fcca457d8c86d3a27c689724930e13",
-  "signature": "oph/NhjfgZLyUr41imeCjYjoNAoM/nNVur2bbW3j7hAUH5SOoN+raDAXrsW0nCRnxhXL1uvJApUL42mIW+LG82pJpa9F2nDZy6MKvG+BInD4yAWp2RIlR/ES6vfQq++hLiXSKZOtjx4n0McvELr+9bn3Otv14RPuTo7IxdzcN0jiBUvAJ7OFCstReUdxecWMk3uiA0uyUjQYJthuHAnwtuCNk0Q8bbFDQBzmfUxyYB0U8n6W3TK1gAKZFvlS7YNbmSv9xU/9LSgPxfKuT1q1pFKy5eb8VhNXEXBGbuM8A3b7yu1DUaJmk/f12XCPXoPb2LSKIKPLxnG9c/XF/s14HXaE7X5utMUbScuIcYvUNiWkX/ZzS4qtPciGlzZNSr7U4H9btT99XVs0LjrILcRUyQe2BrnNs5ucOSHyAjuN6JR0okPd+uil88j3irMzjw4XCJTnN0TX6dww5AVwkekBT1XEKlodVuBD4l4F9PyhpNkRWKQxB/in1AG9WLY9cCIY",
+  "version": "0.10.18",
+  "date": "2026-10-25",
+  "zip": "releases/appapi-0.10.18.zip",
+  "sha256": "466916c83dde82334a53a396148ad96251478883d501bf0260a0d7db975e9673",
+  "signature": "Qu19+nM9qHlJvwu5tpP18nCQYBY0Ys6LSeS3oStKMBKSM42ovW6suGXmScCltkHk49zUpZ0jdnY4Oi2nq5TT7HssyBmYhv5FDIgFj3DBijsbMT4Zezz9WH9T95OvmRB9u1MU0gy1LwXpdwemF566N2dPbCYBCN4UGDd/BhGXMEy8NZ4WciqUxalCQr0hE6GTa7jZDLvPrnzYgYnc7cCwbygpITetiTlf0dzJTgq/dluVXW2OIIGnfTbI/yNYQyN7+tvVoG4Nn33L5fCCVMK1DFrS7bFkSWGCqyc6gUJf1fTmhGvd+1BFd11djzdDakHWDxAxGTfZFThegqDDxSd9/caE+QHIyLl+8Ke9J2HTb1aXtaRmQWMTlMrEBGQdH4TL+XD35L9jAvcoYiUnqmTgmE4YqyRwyfc+sUsrc7IhCQFqh+AS9kRElb7QSNZ0xCL5nsdJoAgE1nCd5jjcr1O5HqA+FfzyJ3hfsf7D+sWKbhTd8C+yasbqCLZER1YAw2f8",
   "min_php": "7.1",
-  "notes": "비회원 글·댓글을 웹처럼 비밀번호로 수정·삭제, 비회원 댓글 쓰기, 비회원 비밀글을 비밀번호로 보기, 댓글 수정"
+  "notes": "Rhymix 새 설치 사이트에서 쪽지함·친구 목록이 비어 보이던 문제 수정, 권한으로 하위 메뉴가 모두 숨은 빈 묶음 메뉴를 빼기"
 }
