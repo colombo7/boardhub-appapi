@@ -1,9 +1,9 @@
 {
-  "version": "0.10.14",
+  "version": "0.10.15",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.14.zip",
-  "sha256": "d234bc08786f1abc64b2cedac2cc51765079e39299b99187e83a67fe865d6a8e",
-  "signature": "ahLnXM0pra2tIxtRxm3QSLiQV7N1JNFFTjf9jGBPvOIz18awdO9XhR19fB1F+R561ijiLHDLkgYukIU7RFfCNlTeqBo2uXJ4dUFE7zBYj5hGf+FDQQQGwBFkbuCYPnXwmBvj6kKxC9XkH0Ox8CXw0+8W9OL5hqNrt3/Doa7AojiGgfk7o5vaOerj7NoDRFSxDsTk8coCJlJd1CkEySHXrURr0ZCpR5pl77xkIl5NEoJEgnpPVIhOh99viuufippeXJx51gxS5UEUQxDmb+Gv+73ZyvcqyBomVap0TJ4Pf9NErNsesyTxWbPhoV1INDwEUZhSHzXrqzxPtkmRXF3ORHha19FXAreJn+GKq2n+xu35qborPl/rKAmrgPVGaGYjwqJm/BMG8OTAEJfYGMJm7C9qnSFKfBQm0+1w51pArtR0UJ+qHGU/ol+rwkNijfv8D0HBsFeC6xwN3N0TlGZli6JEssW749tszYeAEcuSyD+ubY0/2puW73SkABUVTto0",
+  "zip": "releases/appapi-0.10.15.zip",
+  "sha256": "7a94b4630a2e15cddb225ce84b9592e49e9e164fbe1ac06b16fa879c0336e02d",
+  "signature": "euuq6rblQBt8tW+Qm2Lu1iJEaK9ZxOrVCCs2EZBNQecnUGT8y476cTqGFqBBMrkuV5bhr6HBF+nThhyzwe5in30W8dhouGRoHRCyRbCHMs8J7H2gArNcsTK1cXc1cRzmVkA6nygeQ9VjgNkgMmp2DnuP0xNonq4yaziGHWZFzNfUYhdTlbc9epLmzWppJ2CgPPkLwndX/QfuqpW862RXg5U4FnKNskPKd/amWvr//YcH6399sJMdwPaWSwaPxgZTCdNs6mErUe8R4nC57+o3WbzXMPWvZw55e2+y5jlp3LIM24gBdhC0ov6bgX1AC+9M24X20uxNJogG2Lq6uVpcAxc+8L2lmB6sWVSUvwQ2ns3bdTbB/BCVQEZy6KOFNMCkpvmL31EedSGWxl55Xf2dKiYEgcqqCsH/zLpHOOgxZgzGSlZ5hpMoeLrHtReBaisQWpoiSpCCvLWUMBI4Hdsw4fCvmjVwO0hXdk+CY16Kiwq7TIL5s9Jbaotjsc9D1GQD",
   "min_php": "7.1",
-  "notes": "비밀글의 추가 항목(확장 변수)이 글을 볼 수 없는 사람에게도 내려가던 문제 수정. 글 속 설문 보기·투표, 내 정보에 레벨·포인트, 새 글 글자 꾸밈, 필수 추가 항목·분류 입력, 통합 게시판 글 수정·추천, 비회원 첨부 받기, 동영상 링크·이미지 갤러리 표시, CAPTCHA·댓글 승인 대기 안내"
+  "notes": "앱에서 CAPTCHA(reCAPTCHA·Turnstile) 풀기 지원: 글쓰기·댓글·가입·로그인. 앱 로그인도 사이트의 로그인 CAPTCHA 설정을 따른다(답은 엔진이 확인)"
 }
