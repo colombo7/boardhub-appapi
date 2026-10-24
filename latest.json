@@ -1,9 +1,9 @@
 {
-  "version": "0.10.11",
+  "version": "0.10.12",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.11.zip",
-  "sha256": "539ab9db7a0a7826a283c2876ec8adfc3780128f71d8b10e314eb47d66012a93",
-  "signature": "m7Ip04RyL71z2TwcRmVt0IpD3R2XZOiatyj1QffyWjB7Gls70IXtWTQETGfGe5+NR/e5f4HNnRpGxsmrnq8CTPP9rZc18OoBZBS++1X5yCNmsVR7fq28F7JIwr6i7uKSbwGhWMse+jG6NF/qBbEIdH1uEjvs8dlfMpbl1JaEy4gmAVyP50RKx7wkbrKhePcH75G1+39t6T12M/z556StvpCVeGF8s6wBiNHVM7tyRBhbgL1AoQzPeEMgUquarDjX69Nv6F8+RZJ4kINPc/BTY0JHtAy4ElJ6QxtkaqzEwteBqNnifcWSDxd7lmcTdPLVhMEwEf3NlimW9IfqzwAyKUCCGJnmQ4H2+11I11Jogxsx2nlHKKzv9deRKL3tNH/2DPy+9KI6XFEa6SPaJKF9DcGUJT86BLh/i0KIaeVWY69yDnXtIixV+j7RqF5haD2UR9QhMt+V0BM0DO1BGdpQERuAKTW+DlVJpyCNOZLC3GjPDgQbmnF6XzWtXaoBL7zy",
+  "zip": "releases/appapi-0.10.12.zip",
+  "sha256": "363b9bae0635c5f3c3fcce717147634d1a74d4d5866c180627e3f8a4a1419090",
+  "signature": "PXGAGjTQvG6vqb3lIjnqx3RBoHELpuZugF4n/au17h+JcOOdrUk6fL4lcBrlt05SBpWdkxdLmiSzpUxXKTnZbTFdNGnHzLqe7chcAINCagMCsQ2/9yvKZXQ4ySPpa+C8K/NtAgF9W5p8Sg+4n2JkOQeD4lBOZf7N8vq/Jcro9zhTAQMDSwwXm2nGeMe48KBeJUnHUNjBxlQG9DiR9+596G/10H4AF9VlrJ9/2n6vmJ18qLb3VNCAp2NeA29LRIeBHIWCe+hYfwxoTQo0wBm+8bz6wM+btAIGiClwUcbgaE9GqNwZ6dFtodkwTomzXG4CO4TNeSr8wQElnf3/q+4EHVX3dgkR636ymtOpEFVAF2F9XhTJN/WM5x4/26Mm7c7O2wOB/N7mDuGkbu1TQrqoGi6Tuj6N4K3Gbw3Yj6438i5BLlmyFZO+JU+kZfMCjrGOhaCZlSi8DlEz0CbGa7wiA8VkLaowVwTjToGCdvETH/7X+pTW+LZgzRh32qOy2+Ug",
   "min_php": "7.1",
-  "notes": "설치 현황 알리기 안내 문구 보강(모듈 개발에 참고 자료)"
+  "notes": "글 화면에서 이미 스크랩한 글 표시"
 }
