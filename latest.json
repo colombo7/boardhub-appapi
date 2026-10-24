@@ -1,9 +1,9 @@
 {
-  "version": "0.10.12",
+  "version": "0.10.13",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.12.zip",
-  "sha256": "363b9bae0635c5f3c3fcce717147634d1a74d4d5866c180627e3f8a4a1419090",
-  "signature": "PXGAGjTQvG6vqb3lIjnqx3RBoHELpuZugF4n/au17h+JcOOdrUk6fL4lcBrlt05SBpWdkxdLmiSzpUxXKTnZbTFdNGnHzLqe7chcAINCagMCsQ2/9yvKZXQ4ySPpa+C8K/NtAgF9W5p8Sg+4n2JkOQeD4lBOZf7N8vq/Jcro9zhTAQMDSwwXm2nGeMe48KBeJUnHUNjBxlQG9DiR9+596G/10H4AF9VlrJ9/2n6vmJ18qLb3VNCAp2NeA29LRIeBHIWCe+hYfwxoTQo0wBm+8bz6wM+btAIGiClwUcbgaE9GqNwZ6dFtodkwTomzXG4CO4TNeSr8wQElnf3/q+4EHVX3dgkR636ymtOpEFVAF2F9XhTJN/WM5x4/26Mm7c7O2wOB/N7mDuGkbu1TQrqoGi6Tuj6N4K3Gbw3Yj6438i5BLlmyFZO+JU+kZfMCjrGOhaCZlSi8DlEz0CbGa7wiA8VkLaowVwTjToGCdvETH/7X+pTW+LZgzRh32qOy2+Ug",
+  "zip": "releases/appapi-0.10.13.zip",
+  "sha256": "2a69123aae59aad63bb5eba5a7c24eb271d45349c7e012b2aae7b561b557d924",
+  "signature": "lPmwu7R8W0pnHq0FIH19SN+xzr9sjocPInTyazH1f/hmY76UkJpjIwb7rzbc39UUnt0HyDNVgeDc9rlL2ZvsQVl4qqOBfhvjsyPY2WQO4EwynT7fuwJwzFXwgGu2NoZFXG6kDXdkyqPWcGRJZFrGtWU+Q12wjHI1SOG+jttX2AkSDAl6BSSaVNKjiDixeI6kkiqryuTi4ouonKYieAMda74Hgb2oz14x5saEUKDXlxmVG/dG6U8ZvB74NxISPZzyJDZccoM8fu6JZSreIDnyBtndUmJVHGqMpaWFzYnT1xN6USTmIM6NGFqqiTlDg9shgjzTA0Cr0P1VYBlAzzAM0+APjgG4RRYqPHykcLIzWpqpD8k33nM6/csuO1vVnfCFbLVmPVizYjV2Sr0zSf5oqFlr251M/R6yaEVsVumc7c1ywAzDBPsP98AckypjKb+yUErwQU88MJP9wDpDZGg9eR4SKb1NtMmoXEAvJGVEUHhx9+IMZYXVrRl7eUhc/a3X",
   "min_php": "7.1",
-  "notes": "글 화면에서 이미 스크랩한 글 표시"
+  "notes": "관리 화면: 설치 현황 안내 문구 정리"
 }
