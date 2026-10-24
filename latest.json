@@ -1,9 +1,9 @@
 {
-  "version": "0.10.13",
+  "version": "0.10.14",
   "date": "2026-10-24",
-  "zip": "releases/appapi-0.10.13.zip",
-  "sha256": "2a69123aae59aad63bb5eba5a7c24eb271d45349c7e012b2aae7b561b557d924",
-  "signature": "lPmwu7R8W0pnHq0FIH19SN+xzr9sjocPInTyazH1f/hmY76UkJpjIwb7rzbc39UUnt0HyDNVgeDc9rlL2ZvsQVl4qqOBfhvjsyPY2WQO4EwynT7fuwJwzFXwgGu2NoZFXG6kDXdkyqPWcGRJZFrGtWU+Q12wjHI1SOG+jttX2AkSDAl6BSSaVNKjiDixeI6kkiqryuTi4ouonKYieAMda74Hgb2oz14x5saEUKDXlxmVG/dG6U8ZvB74NxISPZzyJDZccoM8fu6JZSreIDnyBtndUmJVHGqMpaWFzYnT1xN6USTmIM6NGFqqiTlDg9shgjzTA0Cr0P1VYBlAzzAM0+APjgG4RRYqPHykcLIzWpqpD8k33nM6/csuO1vVnfCFbLVmPVizYjV2Sr0zSf5oqFlr251M/R6yaEVsVumc7c1ywAzDBPsP98AckypjKb+yUErwQU88MJP9wDpDZGg9eR4SKb1NtMmoXEAvJGVEUHhx9+IMZYXVrRl7eUhc/a3X",
+  "zip": "releases/appapi-0.10.14.zip",
+  "sha256": "d234bc08786f1abc64b2cedac2cc51765079e39299b99187e83a67fe865d6a8e",
+  "signature": "ahLnXM0pra2tIxtRxm3QSLiQV7N1JNFFTjf9jGBPvOIz18awdO9XhR19fB1F+R561ijiLHDLkgYukIU7RFfCNlTeqBo2uXJ4dUFE7zBYj5hGf+FDQQQGwBFkbuCYPnXwmBvj6kKxC9XkH0Ox8CXw0+8W9OL5hqNrt3/Doa7AojiGgfk7o5vaOerj7NoDRFSxDsTk8coCJlJd1CkEySHXrURr0ZCpR5pl77xkIl5NEoJEgnpPVIhOh99viuufippeXJx51gxS5UEUQxDmb+Gv+73ZyvcqyBomVap0TJ4Pf9NErNsesyTxWbPhoV1INDwEUZhSHzXrqzxPtkmRXF3ORHha19FXAreJn+GKq2n+xu35qborPl/rKAmrgPVGaGYjwqJm/BMG8OTAEJfYGMJm7C9qnSFKfBQm0+1w51pArtR0UJ+qHGU/ol+rwkNijfv8D0HBsFeC6xwN3N0TlGZli6JEssW749tszYeAEcuSyD+ubY0/2puW73SkABUVTto0",
   "min_php": "7.1",
-  "notes": "관리 화면: 설치 현황 안내 문구 정리"
+  "notes": "비밀글의 추가 항목(확장 변수)이 글을 볼 수 없는 사람에게도 내려가던 문제 수정. 글 속 설문 보기·투표, 내 정보에 레벨·포인트, 새 글 글자 꾸밈, 필수 추가 항목·분류 입력, 통합 게시판 글 수정·추천, 비회원 첨부 받기, 동영상 링크·이미지 갤러리 표시, CAPTCHA·댓글 승인 대기 안내"
 }
